@@ -1,0 +1,43 @@
+#conteneur
+{ 
+	display: flex;
+	flex-direction: column;
+	
+}
+
+.element
+{
+		width: 1900px;
+		height: 182px;
+}
+
+.element:nth-child(1)
+{
+		background-color: white; right: 
+}
+.element:nth-child(2)
+{
+		background-color: white; font-size: 50px; font-weight:bold; text-align:center;
+		width: 700px;
+		height: 50px;
+		justify-content: center; margin: auto;
+}
+.element:nth-child(3)
+{
+		width: 700px;
+		height: 30px;
+		justify-content: center; margin: auto;
+		background-color: white; text-align:center; 
+		border: 10px black solid;
+		border-radius: 20px;
+}
+.element:nth-child(4)
+{
+		background-color: white; text-align:center;
+		width: 1900px;
+		height: 500px;
+}
+.element:nth-child(5)
+{
+		background-color: silver;
+}
